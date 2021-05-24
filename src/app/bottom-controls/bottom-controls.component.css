@@ -1,0 +1,19 @@
+.bottom-controls-container {
+    display: flex;
+    align-items:flex-start;
+    width: 20%;
+    margin: 50px auto;
+    justify-content: space-between;
+}
+
+.mat-slider-class {
+    display: flex;
+    align-items:flex-start;
+    width: 20%;
+    margin: 50px auto;
+    justify-content: space-between;
+}
+
+input {
+    width: 60%;
+}
